@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Typing text in 3 lines, fully corrected -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Cleaning+%26+Visualization+Specialist;Power+BI+Dashboard+Expert;Turning+Business+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Cleaning+%26+Visualization;Power+BI+Dashboard+Expert;Turning+Business+Data+into+Decisions" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Contact Links -->
