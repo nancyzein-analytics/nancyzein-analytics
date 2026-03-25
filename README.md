@@ -1,7 +1,7 @@
 ## Hi there, I'm Nancy 👋
 
 <div align="center">
-  <!--  Typing text in 3 lines -->
+  <!-- Typing text in 3 lines, fully corrected -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Cleaning+%26+Visualization+Specialist;Power+BI+Dashboard+Expert;Turning+Business+Data+into+Decisions" alt="Typing SVG" />
 </div>
 
@@ -20,11 +20,11 @@ My focus is on building dashboards that get used, automating repetitive tasks, a
 
 ## 🔭 What I'm Currently Working On 
 
-- **Project 1:** [Brief description of Project 1]  
-- **Project 2:** [Brief description of Project 2]  
-- **Project 3:** [Brief description of Project 3]  
-- **Project 4:** [Brief description of Project 4]  
-- **Project 5:** [Brief description of Project 5]  
+- **AdventureWorks Business Intelligence Dashboard:** [Brief description placeholder]  
+- **Maven Market Business Intelligence:** [Brief description placeholder]  
+- **Project 3:** [Brief description placeholder]  
+- **Project 4:** [Brief description placeholder]  
+- **Project 5:** [Brief description placeholder]  
 
 ---
 
