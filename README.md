@@ -1,6 +1,12 @@
-# Hi, I'm Nancy 👋
+# Hi there, I'm Nancy 👋
 
-## 💡 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Data%20Cleaning%20%26%20Visualization;Turning%20Data%20into%20Insights&center=true&width=500&height=50">
+</p>
+
+---
+
+## 🚀 About Me
 I am an aspiring Data Analyst with a strong passion for turning raw, messy data into clear, meaningful insights.  
 
 I enjoy cleaning, analyzing, and visualizing data to uncover patterns and tell compelling stories that support better decision-making.  
@@ -11,45 +17,42 @@ Currently, I am continuously learning and building real-world projects using too
 
 ---
 
-## 🛠 Skills
-- Excel  
-- Power BI  
-- Data Cleaning  
-- Data Visualization  
-- SQL  
-
----
-
 ## 📊 My Projects
 
-### 1. Sales Data Analysis Dashboard
-- Cleaned and analyzed sales data using Excel  
-- Built an interactive dashboard in Power BI  
-
-### 2. Customer Segmentation Analysis
-- Analyzed customer behavior and grouped customers into segments  
-- Provided insights for targeted marketing  
-
-### 3. Financial Performance Report
-- Created a financial dashboard to track revenue and expenses  
-- Highlighted key trends and KPIs  
-
-### 4. Data Cleaning Project
-- Worked with messy dataset and handled missing values & duplicates  
-- Prepared clean data ready for analysis  
-
-### 5. Business Insights Dashboard
-- Built a dashboard to help track business performance  
-- Focused on clear and simple data storytelling  
+- **AdventureWorks Business Intelligence Dashboard**  
+- **Maven Market Business Intelligence Dashboard**  
+- **Sales Data Analysis Dashboard**  
+- **Customer Segmentation Analysis**  
+- **Financial Performance Dashboard**  
 
 ---
 
-## 📈 Tools
-- Microsoft Excel  
+## 🌱 Currently Learning
+- Advanced SQL  
+- Python for Data Analysis  
+- Practicing on more Projects  
+
+---
+
+## 🛠️ Technical Skillset
+
+### 📊 Data Analysis & Visualization
+- Excel  
 - Power BI  
+- Tableau  
+- SQL  
+
+### 💻 Programming & Automation
+- Python  
+- R  
+
+### 📈 Business Intelligence & Analytics
+- A/B Testing  
+- Statistical Analysis  
+- Predictive Modeling  
+- KPI Development  
 
 ---
 
-## 📬 Contact
-- LinkedIn: (add your link here)
-- Email: (optional)
+## 🏆 Check Out My Full Portfolio Website
+- GitHub Pages / Portfolio Link
