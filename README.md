@@ -24,7 +24,7 @@ Currently, I am continuously learning and building real-world projects using too
 
 ## 📊 My Projects  
 
-- **AdventureWorks Business Intelligence Dashboard:**     https://github.com/nancyzein-analytics/AdventureWorks-Business-Intelligence-Dashboard
+- **AdventureWorks Business Intelligence:**     https://github.com/nancyzein-analytics/AdventureWorks-Business-Intelligence-Dashboard
 - **Maven Market Business Intelligence:**     https://github.com/nancyzein-analytics/Maven-Market-Business-Intelligence
 - **Project 3:** [Brief description placeholder]  
 - **Project 4:** [Brief description placeholder]  
