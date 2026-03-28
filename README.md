@@ -12,9 +12,13 @@
 </p>
 
 ## 🚀 About Me 
-I'm an aspiring Data Analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I am an aspiring Data Analyst with a strong passion for turning raw, messy data into clear, meaningful insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks, and creating models that help businesses plan for the future.
+I enjoy cleaning, analyzing, and visualizing data to uncover patterns and tell compelling stories that support better decision-making.
+
+My focus is on building practical dashboards that get used, automating repetitive tasks, and creating data-driven solutions that help businesses plan for the future.
+
+Currently, I am continuously learning and building real-world projects using tools like Excel and Power BI to strengthen my analytical skills.
 
 ---
 
