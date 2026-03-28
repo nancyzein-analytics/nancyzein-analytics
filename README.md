@@ -22,7 +22,7 @@ Currently, I am continuously learning and building real-world projects using too
 
 ---
 
-## 🔭 What I'm Currently Working On 
+## 📊 My Projects  
 
 - **AdventureWorks Business Intelligence Dashboard:** [Brief description placeholder]  
 - **Maven Market Business Intelligence:** [Brief description placeholder]  
