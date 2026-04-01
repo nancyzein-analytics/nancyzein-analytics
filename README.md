@@ -26,7 +26,7 @@ Currently, I am continuously learning and building real-world projects using too
 
 - **AdventureWorks Business Intelligence:**     https://github.com/nancyzein-analytics/AdventureWorks-Business-Intelligence-Dashboard
 - **Maven Market Business Intelligence:**     https://github.com/nancyzein-analytics/Maven-Market-Business-Intelligence
-- **Project Management Dashboard:**     https://github.com/nancyzein-analytics/Project-Management-Dashboard-
+- **Project Management Dashboard:**     https://github.com/nancyzein-analytics/Project-Management-Dashboard
 - **Project 4:** [Brief description placeholder]  
 - **Project 5:** [Brief description placeholder]  
 
