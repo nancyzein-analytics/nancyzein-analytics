@@ -10,9 +10,9 @@ I am currently strengthening my skills through real-world projects using Excel, 
 ## 📊 My Projects  
 
 - **AdventureWorks Business Intelligence Dashboard:** https://github.com/nancyzein-analytics/AdventureWorks-Business-Intelligence-Dashboard  
-- **Maven Market Business Intelligence Dashboard:** https://github.com/nancyzein-analytics/Maven-Market-Business-Intelligence  
-- **Project Management Dashboard:** https://github.com/nancyzein-analytics/Project-Management-Dashboard  
-- **Sales & Marketing Analytics Dashboard:** https://github.com/nancyzein-analytics/Sales-Marketing-analytics-Dashboard  
+- **Maven Market Business Intelligence Dashboard:** https://github.com/nancyzein-analytics/Maven-Market-Business-Intelligence
+- **Sales & Marketing Analytics Dashboard:** https://github.com/nancyzein-analytics/Sales-Marketing-analytics-Dashboard 
+- **Project Management Dashboard:** https://github.com/nancyzein-analytics/Project-Management-Dashboard   
 
 ---
 
